@@ -4,9 +4,6 @@ Ce repo contient une multitude de défis de katas (exercices) en langage **Java*
 L'objectif de ce repo était de pratiquer afin d'acquérir des **automatismes** et une meilleure compréhension du langage.
 Chaque fichier représente un défi spécifique avec sa solution.
 
-## Table des Matières
-- [Introduction](#introduction)
-- [Niveaux traités](#niveaux-traités)
 
 ## Niveaux traités
 - **8-kyu** : Contient des défis de niveau 8-kyu. 
